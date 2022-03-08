@@ -1,0 +1,6 @@
+D:\Visual Studio\C#\Domenik_Milohanic_PPZ02\Domenik_Milohanic_PPZ02\obj\Debug\Domenik_Milohanic_PPZ02.csproj.AssemblyReference.cache
+D:\Visual Studio\C#\Domenik_Milohanic_PPZ02\Domenik_Milohanic_PPZ02\obj\Debug\Domenik_Milohanic_PPZ02.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\C#\Domenik_Milohanic_PPZ02\Domenik_Milohanic_PPZ02\obj\Debug\Domenik_Milohanic_PPZ02.Form1.resources
+D:\Visual Studio\C#\Domenik_Milohanic_PPZ02\Domenik_Milohanic_PPZ02\obj\Debug\Domenik_Milohanic_PPZ02.Properties.Resources.resources
+D:\Visual Studio\C#\Domenik_Milohanic_PPZ02\Domenik_Milohanic_PPZ02\obj\Debug\Domenik_Milohanic_PPZ02.csproj.GenerateResource.cache
+D:\Visual Studio\C#\Domenik_Milohanic_PPZ02\Domenik_Milohanic_PPZ02\obj\Debug\Domenik_Milohanic_PPZ02.csproj.CoreCompileInputs.cache
